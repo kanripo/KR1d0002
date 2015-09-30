@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.420546
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0005-008周禮-卷第八.
 <pb:KR1d0002_SBCK_008-1a>¶
 周禮卷第八¶
 夏官司馬下　鄭氏註¶
@@ -561,4 +565,3 @@
 (馬者春秋傳曰叔孫氏之司馬/鬷戾○鬷子公反戾力計反)¶
 <pb:KR1d0002_SBCK_008-33a>¶
 <pb:KR1d0002_SBCK_008-34a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.516977
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0005-010周禮-卷第十.
 <pb:KR1d0002_SBCK_010-1a>¶
 周禮卷第十¶
 秋官司宼下　鄭氏註¶
@@ -624,4 +628,3 @@
 周禮卷第十¶
 <pb:KR1d0002_SBCK_010-35b>¶
 <pb:KR1d0002_SBCK_010-35b>¶
-

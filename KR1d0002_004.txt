@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.210728
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0005-004周禮-卷第四.
 <pb:KR1d0002_SBCK_004-1a>¶
 周禮卷第四¶
 地官司徒下　鄭氏註¶
@@ -757,4 +761,3 @@
 (於&KR1066;人言者共至尊雖其潘灡戔餘不可褻/也○豢音患又芳&KR0061;反灡魯旦反戔音殘)¶
 周禮卷第四¶
 <pb:KR1d0002_SBCK_004-43a>¶
-

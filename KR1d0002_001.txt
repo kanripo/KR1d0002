@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.062839
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0005-001周禮-卷第一.
 <pb:KR1d0002_SBCK_001-1a>¶
 周禮卷第一¶
 天官冢宰第一　鄭氏註¶
@@ -668,4 +672,3 @@
 肉之事¶
 周禮卷第一¶
 <pb:KR1d0002_SBCK_001-39a>¶
-

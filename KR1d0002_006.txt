@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.318846
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0005-006周禮-卷第六.
 <pb:KR1d0002_SBCK_006-1a>¶
 周禮卷第六¶
 春官宗伯下　鄭氏註¶
@@ -1018,4 +1022,3 @@
 (反又戶外反札側八反又/音截墠音善螭勑知反)¶
 周禮卷第六¶
 <pb:KR1d0002_SBCK_006-57b>¶
-

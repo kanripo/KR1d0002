@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.470702
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0005-009周禮-卷第九.
 <pb:KR1d0002_SBCK_009-1a>¶
 周禮卷第九¶
 秋官司宼第五　鄭氏註¶
@@ -611,4 +615,3 @@
 之事¶
 周禮卷第九¶
 <pb:KR1d0002_SBCK_009-36a>¶
-

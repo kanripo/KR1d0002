@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.257923
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0005-005周禮-卷第五.
 <pb:KR1d0002_SBCK_005-1a>¶
 周禮卷第五¶
 春官宗伯第三　鄭氏註¶
@@ -830,4 +834,3 @@
 (或言公或言國言國者由其君所來居其官/曰公謂王遣使奉命有贈之物各從其官出)¶
 (職喪當/催督也)¶
 周禮卷第五¶
-

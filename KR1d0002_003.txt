@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.164367
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0005-003周禮-卷第三.
 <pb:KR1d0002_SBCK_003-1a>¶
 周禮卷第三¶
 地官司徒第二　鄭氏註¶
@@ -716,4 +720,3 @@
 <pb:KR1d0002_SBCK_003-40b>¶
 (吿曰博/碩肥腯)¶
 周禮卷第三¶
-

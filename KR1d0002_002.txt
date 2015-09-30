@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.115128
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0005-002周禮-卷第二.
 <pb:KR1d0002_SBCK_002-1a>¶
 周禮卷第二¶
 天官冢宰下　鄭氏註¶
@@ -677,4 +681,3 @@
 周禮卷第二¶
 <pb:KR1d0002_SBCK_002-40b>¶
 <pb:KR1d0002_SBCK_002-40b>¶
-

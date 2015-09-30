@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.374398
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0005-007周禮-卷第七.
 <pb:KR1d0002_SBCK_007-1a>¶
 周禮卷第七¶
 夏官司馬第四　鄭氏註¶
@@ -578,4 +582,3 @@
 (使盛大蕃息者/謂鵞鶩之屬)祭祀共卵鳥(其卵可薦之/鳥○卵音卵)歲¶
 時貢鳥物(鴞鴈之屬/以四時來)共膳獻之鳥(雉及鶉鴽/之屬〇鴽)¶
 (音/如)周禮卷第七¶
-

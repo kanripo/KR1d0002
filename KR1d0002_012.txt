@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.617404
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0005-012周禮-卷第十二.
 <pb:KR1d0002_SBCK_012-1a>¶
 周禮卷第十二¶
 冬官考工記下　鄭氏註¶
@@ -571,4 +575,3 @@
 周禮卷第十二(終)¶
 <pb:KR1d0002_SBCK_012-32b>¶
 <pb:KR1d0002_SBCK_012-32b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮
-#+DATE: 2015-09-23 09:37:17
+#+DATE: 2015-09-10 22:47:16.030338
+#+PROPERTY: ID KR1d0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0005-000周禮-目録.
 <pb:KR1d0002_SBCK_000-1a>¶
 周禮目録¶
 　卷第一¶
@@ -32,4 +36,3 @@
 <pb:KR1d0002_SBCK_000-2b>¶
 　　冬官考工記下¶
 周禮目録(畢)¶
-
